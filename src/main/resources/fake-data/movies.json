@@ -1,0 +1,37 @@
+// Some Data to pre-populate the database on startup
+[
+  {
+    "title": "Black Panther",
+    "year": 2018
+  },
+
+  {
+    "title": "Iron Man 3",
+    "year": 2013
+  },
+
+  {
+    "title": "Minions",
+    "year": 2015
+  },
+
+  {
+    "title": "The Dark Knight Rises",
+    "year": 2012
+  },
+
+  {
+    "title": "Alice in Wonderland",
+    "year": 2010
+  },
+
+  {
+    "title": "Inception",
+    "year": 2010
+  },
+
+  {
+    "title": "Avengers: Infinity War",
+    "year": 2018
+  }
+]
